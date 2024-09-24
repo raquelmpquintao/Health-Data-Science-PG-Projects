@@ -23,7 +23,7 @@ The following technologies and tools were used across the various projects:
 ## Projects
 
 1. **Ferramenta de Apoio à Decisão para Gestão de Produtos Farmacêuticos**  
-    Decision Support Tool for Pharmaceutical Product Management  
+     Decision Support Tool for Pharmaceutical Product Management  
    - **Discipline**: Data Analysis and Visualization  
    - **Technologies**: SQL, MySQL, Talend, PowerBI  
    - **Objective**:  
@@ -31,7 +31,7 @@ The following technologies and tools were used across the various projects:
      *(English)*: Regulation of availability and cost optimization in a hospital.
 
 2. **Adesão à Terapia de Hipertensão Arterial em Pacientes Hipertensos**  
-   *(English)*: Adherence to Hypertension Therapy in Recently Treated Hypertensive Patients  
+     Adherence to Hypertension Therapy in Recently Treated Hypertensive Patients  
    - **Discipline**: Research Design in Health Organizations  
    - **Technologies**: R, RStudio  
    - **Objective**:  
@@ -39,7 +39,7 @@ The following technologies and tools were used across the various projects:
      *(English)*: Assess adherence to therapy through statistical analysis of variables involved in treatment and medication purchasing behavior.
 
 3. **Explorar Relações e Padrões em Dados Cirúrgicos de Ortopedia: Uma Abordagem Multivariada**  
-   *(English)*: Exploring Relationships and Patterns in Orthopedic Surgery Data: A Multivariate Approach  
+     Exploring Relationships and Patterns in Orthopedic Surgery Data: A Multivariate Approach  
    - **Discipline**: Multivariate Statistics  
    - **Technologies**: RStudio, utilizing libraries such as psych, fBasics, corrgram, car, FactoMineR, factoextra, dplyr, ggplot2, shiny, Hmisc  
    - **Objective**:  
@@ -47,7 +47,7 @@ The following technologies and tools were used across the various projects:
      *(English)*: Use Factor Analysis and Clustering to identify key factors influencing the success and satisfaction of patients undergoing knee arthroplasty.
 
 4. **Modelos Preditivos para Alinhamento do Joelho**  
-   *(English)*: Predictive Models for Knee Alignment  
+     Predictive Models for Knee Alignment  
    - **Discipline**: Machine Learning  
    - **Technologies**: Python, Scikit-learn, Jupyter Notebook  
    - **Description**:  
@@ -55,7 +55,7 @@ The following technologies and tools were used across the various projects:
      *(English)*: Development of predictive models to assess knee alignment changes before and after arthroplasty surgery.
 
 5. **Modelos de Classificação CNN para Avaliação de Nódulos Pulmonares**  
-   *(English)*: CNN Classification Models for Pulmonary Nodule Evaluation  
+     CNN Classification Models for Pulmonary Nodule Evaluation  
    - **Discipline**: Deep Learning  
    - **Technologies**: Python, Matplotlib, Seaborn, Scikit-learn, PIL, TensorFlow, Keras, Jupyter Notebook  
    - **Objective**:  
@@ -63,7 +63,7 @@ The following technologies and tools were used across the various projects:
      *(English)*: Evaluate the presence of pulmonary nodules and identify benign and malignant cases using computed tomography (CT) images of the chest.
 
 6. **Análise de Dataset Big Data**  
-   *(English)*: Big Data Analysis  
+     Big Data Analysis  
    - **Discipline**: Big Data  
    - **Technologies**: Python, SQL, Apache Spark, Databricks  
    - **Description**:  
