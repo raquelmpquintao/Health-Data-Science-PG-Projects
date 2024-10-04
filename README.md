@@ -44,7 +44,7 @@ The following technologies and tools were used across the various projects:
 (Portuguese): Utilizar Análise Fatorial e Clusterização para identificar fatores-chave que influenciam o sucesso e a satisfação dos pacientes submetidos à artroplastia do joelho.  
 (English): Use Factor Analysis and Clustering to identify key factors influencing the success and satisfaction of patients undergoing knee arthroplasty.
 
-### 4. Reações a Comida: Criação de programa em Python 
+### 4. Reações a Comida: Programa em Python 
 **Discipline**: Programming Fundamentals  
 **Technologies**: Python (Pandas, NumPy, Matplotlib, PySimpleGUI, Dash)  
 **Description**:  
