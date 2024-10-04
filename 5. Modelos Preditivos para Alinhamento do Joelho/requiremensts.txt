@@ -1,1 +1,10 @@
+# Este arquivo lista as bibliotecas Python necessárias para executar o projeto
+# Modelos Preditivos para Alinhamento do Joelho, desenvolvido como parte do curso de Pós-Graduação em Data Science
+# na área da Saúde. Certifique-se de que todas as dependências estão instaladas
+# para garantir o funcionamento adequado dos scripts e notebooks.
+
+# Para instalar as dependências, execute o seguinte comando no terminal:
+# pip install -r requirements.txt
+
+# Lista de dependências:
 
