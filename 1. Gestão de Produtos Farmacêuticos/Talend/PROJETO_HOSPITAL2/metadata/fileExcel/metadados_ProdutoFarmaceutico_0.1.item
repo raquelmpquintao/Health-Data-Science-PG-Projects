@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_x9j1wXv2Ee6cZcLdcdeCIA" name="metadados_ProdutoFarmaceutico" dataPackage="_x9j1wnv2Ee6cZcLdcdeCIA" Server="Localhost 127.0.0.1" FilePath="C:/Users/raque/OneDrive/Desktop/PG HDS/Aulas - 1º Trimestre/Bases de Dados e Gestão de Dados/Projeto BGD/Meu projeto/Dados hospital.xlsx" Encoding="ISO-8859-1" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="Sheet1" firstColumn="5" lastColumn="14" thousandSeparator="','" decimalSeparator="'.'" selectAllSheets="true" sheetList="Sheet1:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+    <sheetColumns>F</sheetColumns>
+    <sheetColumns>G</sheetColumns>
+    <sheetColumns>H</sheetColumns>
+    <sheetColumns>I</sheetColumns>
+    <sheetColumns>J</sheetColumns>
+    <sheetColumns>K</sheetColumns>
+    <sheetColumns>L</sheetColumns>
+    <sheetColumns>M</sheetColumns>
+    <sheetColumns>N</sheetColumns>
+    <sheetColumns>O</sheetColumns>
+    <sheetColumns>P</sheetColumns>
+    <sheetColumns>Q</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_x9j1wnv2Ee6cZcLdcdeCIA" name="default" dataManager="_x9j1wXv2Ee6cZcLdcdeCIA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_x9j1w3v2Ee6cZcLdcdeCIA" id="_klFYwHv2Ee6cZcLdcdeCIA" label="metadata_ProdutoFarmaceutico">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_x9j1xHv2Ee6cZcLdcdeCIA" label="Medicamento" length="8" talendType="id_Integer" key="true" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_x9j1xXv2Ee6cZcLdcdeCIA" label="Descricao" length="72" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_x9j1xnv2Ee6cZcLdcdeCIA" label="Servico" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_x9j1x3v2Ee6cZcLdcdeCIA" label="Descricao_1" length="31" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_x9j1yHv2Ee6cZcLdcdeCIA" label="Tipo_Episodio" length="13" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_x9j1yXv2Ee6cZcLdcdeCIA" label="Episodio" length="7" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_x9j1ynv2Ee6cZcLdcdeCIA" label="Descricao_2" length="225" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_x9j1y3v2Ee6cZcLdcdeCIA" label="Lote" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_x9j1zHv2Ee6cZcLdcdeCIA" label="Qtd__Cons" length="-1" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_x9j1zXv2Ee6cZcLdcdeCIA" label="Unidade" length="13" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

@@ -1,0 +1,280 @@
+[ {
+  "baseItem" : {
+    "id" : "_1llwkMUtEe6AyaRcAOBLVA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KiDq0HvtEe6cZcLdcdeCIA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KiDq0HvtEe6cZcLdcdeCIA - dim_servico",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_KiDq0HvtEe6cZcLdcdeCIA - stg_servico",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_3lcysHvzEe6cZcLdcdeCIA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KiDq0HvtEe6cZcLdcdeCIA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_x9j1wHv2Ee6cZcLdcdeCIA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_x9j1wHv2Ee6cZcLdcdeCIA - metadata_ProdutoFarmaceutico",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_87cqEH1_Ee6mi8FtHpb-jw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KiDq0HvtEe6cZcLdcdeCIA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_v7WwgH2CEe6mi8FtHpb-jw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_v7WwgH2CEe6mi8FtHpb-jw - metadata_TFDISPENSAPRODUTOS",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_9Z66YMhgEe6lI-Ft3t5ygg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "PROJETO_HOSPITAL2:_1llwkMUtEe6AyaRcAOBLVA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "PROJETO_HOSPITAL2:_3lcysHvzEe6cZcLdcdeCIA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "PROJETO_HOSPITAL2:_87cqEH1_Ee6mi8FtHpb-jw",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "PROJETO_HOSPITAL2:_CN7_gMdPEe6-xI0TDaHTyA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "PROJETO_HOSPITAL2:_JdP5UMdkEe6-xI0TDaHTyA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "PROJETO_HOSPITAL2:_SckfsMhfEe6lI-Ft3t5ygg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "PROJETO_HOSPITAL2:_T3EP0MdDEe6-xI0TDaHTyA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "PROJETO_HOSPITAL2:_W2dbsHvtEe6cZcLdcdeCIA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "PROJETO_HOSPITAL2:_cWpb4HvvEe6cZcLdcdeCIA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "PROJETO_HOSPITAL2:_nNkQMHvxEe6cZcLdcdeCIA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "PROJETO_HOSPITAL2:_svtGEMd_Ee6f-rQc2JcorA",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_CN7_gMdPEe6-xI0TDaHTyA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KiDq0HvtEe6cZcLdcdeCIA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KiDq0HvtEe6cZcLdcdeCIA - dim_entidaderesponsavel",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_JdP5UMdkEe6-xI0TDaHTyA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KiDq0HvtEe6cZcLdcdeCIA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KiDq0HvtEe6cZcLdcdeCIA - dim_utente",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_SckfsMhfEe6lI-Ft3t5ygg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KiDq0HvtEe6cZcLdcdeCIA",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_T3EP0MdDEe6-xI0TDaHTyA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KiDq0HvtEe6cZcLdcdeCIA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KiDq0HvtEe6cZcLdcdeCIA - dim_produtofarmaceutico",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_KiDq0HvtEe6cZcLdcdeCIA - stg_produtofarmaceutico",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_W2dbsHvtEe6cZcLdcdeCIA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_06OxUHvtEe6cZcLdcdeCIA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KiDq0HvtEe6cZcLdcdeCIA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_06OxUHvtEe6cZcLdcdeCIA - metadata_utente",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_cWpb4HvvEe6cZcLdcdeCIA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KiDq0HvtEe6cZcLdcdeCIA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_vwTYMHvvEe6cZcLdcdeCIA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_vwTYMHvvEe6cZcLdcdeCIA - metadata_servico",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_hMPQ0Hv6Ee6cZcLdcdeCIA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_F5YHIHv7Ee6cZcLdcdeCIA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KiDq0HvtEe6cZcLdcdeCIA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_F5YHIHv7Ee6cZcLdcdeCIA - metadata_Data",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_nNkQMHvxEe6cZcLdcdeCIA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_2-ADEHvxEe6cZcLdcdeCIA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KiDq0HvtEe6cZcLdcdeCIA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_2-ADEHvxEe6cZcLdcdeCIA - metadata_EntidadeResponsavel",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_svtGEMd_Ee6f-rQc2JcorA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KiDq0HvtEe6cZcLdcdeCIA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KiDq0HvtEe6cZcLdcdeCIA - dim_data",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_KiDq0HvtEe6cZcLdcdeCIA - dim_entidaderesponsavel",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_KiDq0HvtEe6cZcLdcdeCIA - dim_produtofarmaceutico",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_KiDq0HvtEe6cZcLdcdeCIA - dim_servico",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_KiDq0HvtEe6cZcLdcdeCIA - dim_utente",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_KiDq0HvtEe6cZcLdcdeCIA - stg_tfdispensaprodutos",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

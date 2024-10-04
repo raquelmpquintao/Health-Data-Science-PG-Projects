@@ -1,0 +1,281 @@
+NCIt Concept Code	NCIt Preferred Term	GENC Name (FDA Standard)	GENC 2 Letter Code	GENC 3 Letter Code (FDA Standard)	GENC Number	NCIt Subset Code	NCIt Subset Name
+C16267	Afghanistan	AFGHANISTAN	AF	AFG	004	C124085	Geopolitical Entities, Names and Codes Terminology
+C49344	Akrotiri	AKROTIRI	QZ	XQZ	900	C124085	Geopolitical Entities, Names and Codes Terminology
+C16271	Albania	ALBANIA	AL	ALB	008	C124085	Geopolitical Entities, Names and Codes Terminology
+C16274	Algeria	ALGERIA	DZ	DZA	012	C124085	Geopolitical Entities, Names and Codes Terminology
+C17739	American Samoa	AMERICAN SAMOA	AS	ASM	016	C124085	Geopolitical Entities, Names and Codes Terminology
+C16289	Andorra	ANDORRA	AD	AND	020	C124085	Geopolitical Entities, Names and Codes Terminology
+C16292	Angola	ANGOLA	AO	AGO	024	C124085	Geopolitical Entities, Names and Codes Terminology
+C20133	Anguilla	ANGUILLA	AI	AIA	660	C124085	Geopolitical Entities, Names and Codes Terminology
+C18007	Antarctica	ANTARCTICA	AQ	ATA	010	C124085	Geopolitical Entities, Names and Codes Terminology
+C16303	Antigua and Barbuda	ANTIGUA AND BARBUDA	AG	ATG	028	C124085	Geopolitical Entities, Names and Codes Terminology
+C16305	Argentina	ARGENTINA	AR	ARG	032	C124085	Geopolitical Entities, Names and Codes Terminology
+C16306	Armenia	ARMENIA	AM	ARM	051	C124085	Geopolitical Entities, Names and Codes Terminology
+C17884	Aruba	ARUBA	AW	ABW	533	C124085	Geopolitical Entities, Names and Codes Terminology
+C123741	Ashmore and Cartier Islands	ASHMORE AND CARTIER ISLANDS	XA	XAC	902	C124085	Geopolitical Entities, Names and Codes Terminology
+C16311	Australia	AUSTRALIA	AU	AUS	036	C124085	Geopolitical Entities, Names and Codes Terminology
+C16312	Austria	AUSTRIA	AT	AUT	040	C124085	Geopolitical Entities, Names and Codes Terminology
+C16316	Azerbaijan	AZERBAIJAN	AZ	AZE	031	C124085	Geopolitical Entities, Names and Codes Terminology
+C16321	Bahamas	BAHAMAS, THE	BS	BHS	044	C124085	Geopolitical Entities, Names and Codes Terminology
+C16322	Bahrain	BAHRAIN	BH	BHR	048	C124085	Geopolitical Entities, Names and Codes Terminology
+C123742	Baker Island	BAKER ISLAND	XB	XBK	903	C124085	Geopolitical Entities, Names and Codes Terminology
+C16323	Bangladesh	BANGLADESH	BD	BGD	050	C124085	Geopolitical Entities, Names and Codes Terminology
+C16324	Barbados	BARBADOS	BB	BRB	052	C124085	Geopolitical Entities, Names and Codes Terminology
+C123743	Bassas da India	BASSAS DA INDIA	QS	XBI	904	C124085	Geopolitical Entities, Names and Codes Terminology
+C16372	Belarus	BELARUS	BY	BLR	112	C124085	Geopolitical Entities, Names and Codes Terminology
+C16329	Belgium	BELGIUM	BE	BEL	056	C124085	Geopolitical Entities, Names and Codes Terminology
+C16331	Belize	BELIZE	BZ	BLZ	084	C124085	Geopolitical Entities, Names and Codes Terminology
+C16333	Benin	BENIN	BJ	BEN	204	C124085	Geopolitical Entities, Names and Codes Terminology
+C16334	Bermuda	BERMUDA	BM	BMU	060	C124085	Geopolitical Entities, Names and Codes Terminology
+C16336	Bhutan	BHUTAN	BT	BTN	064	C124085	Geopolitical Entities, Names and Codes Terminology
+C16359	Bolivia, Plurinational State of	BOLIVIA	BO	BOL	068	C124085	Geopolitical Entities, Names and Codes Terminology
+C101224	Bonaire, Sint Eustatius and Saba	BONAIRE, SINT EUSTATIUS, AND SABA	BQ	BES	535	C124085	Geopolitical Entities, Names and Codes Terminology
+C16361	Bosnia and Herzegovina	BOSNIA AND HERZEGOVINA	BA	BIH	070	C124085	Geopolitical Entities, Names and Codes Terminology
+C16363	Botswana	BOTSWANA	BW	BWA	072	C124085	Geopolitical Entities, Names and Codes Terminology
+C20104	Bouvet Island	BOUVET ISLAND	BV	BVT	074	C124085	Geopolitical Entities, Names and Codes Terminology
+C16364	Brazil	BRAZIL	BR	BRA	076	C124085	Geopolitical Entities, Names and Codes Terminology
+C16365	British Indian Ocean Territory	BRITISH INDIAN OCEAN TERRITORY	IO	IOT	086	C124085	Geopolitical Entities, Names and Codes Terminology
+C16367	Brunei Darussalam	BRUNEI	BN	BRN	096	C124085	Geopolitical Entities, Names and Codes Terminology
+C16368	Bulgaria	BULGARIA	BG	BGR	100	C124085	Geopolitical Entities, Names and Codes Terminology
+C16369	Burkina Faso	BURKINA FASO	BF	BFA	854	C124085	Geopolitical Entities, Names and Codes Terminology
+C16370	Myanmar	BURMA	MM	MMR	104	C124085	Geopolitical Entities, Names and Codes Terminology
+C16371	Burundi	BURUNDI	BI	BDI	108	C124085	Geopolitical Entities, Names and Codes Terminology
+C16382	Cape Verde	CABO VERDE	CV	CPV	132	C124085	Geopolitical Entities, Names and Codes Terminology
+C16378	Cambodia	CAMBODIA	KH	KHM	116	C124085	Geopolitical Entities, Names and Codes Terminology
+C16379	Cameroon	CAMEROON	CM	CMR	120	C124085	Geopolitical Entities, Names and Codes Terminology
+C16380	Canada	CANADA	CA	CAN	124	C124085	Geopolitical Entities, Names and Codes Terminology
+C16391	Cayman Islands	CAYMAN ISLANDS	KY	CYM	136	C124085	Geopolitical Entities, Names and Codes Terminology
+C16409	Central African Republic	CENTRAL AFRICAN REPUBLIC	CF	CAF	140	C124085	Geopolitical Entities, Names and Codes Terminology
+C16412	Chad	CHAD	TD	TCD	148	C124085	Geopolitical Entities, Names and Codes Terminology
+C16427	Chile	CHILE	CL	CHL	152	C124085	Geopolitical Entities, Names and Codes Terminology
+C16428	China	CHINA	CN	CHN	156	C124085	Geopolitical Entities, Names and Codes Terminology
+C44482	Christmas Island	CHRISTMAS ISLAND	CX	CXR	162	C124085	Geopolitical Entities, Names and Codes Terminology
+C123744	Clipperton Island	CLIPPERTON ISLAND	CP	CPT	905	C124085	Geopolitical Entities, Names and Codes Terminology
+C16445	Cocos (Keeling) Islands	COCOS (KEELING) ISLANDS	CC	CCK	166	C124085	Geopolitical Entities, Names and Codes Terminology
+C16449	Colombia	COLOMBIA	CO	COL	170	C124085	Geopolitical Entities, Names and Codes Terminology
+C16458	Comoros	COMOROS	KM	COM	174	C124085	Geopolitical Entities, Names and Codes Terminology
+C16467	Congo	CONGO (BRAZZAVILLE)	CG	COG	178	C124085	Geopolitical Entities, Names and Codes Terminology
+C17266	Congo, the Democratic Republic of the	CONGO (KINSHASA)	CD	COD	180	C124085	Geopolitical Entities, Names and Codes Terminology
+C16469	Cook Islands	COOK ISLANDS	CK	COK	184	C124085	Geopolitical Entities, Names and Codes Terminology
+C123745	Coral Sea Islands	CORAL SEA ISLANDS	XC	XCS	906	C124085	Geopolitical Entities, Names and Codes Terminology
+C16470	Costa Rica	COSTA RICA	CR	CRI	188	C124085	Geopolitical Entities, Names and Codes Terminology
+C16762	Cote d'Ivoire	CÔTE D'IVOIRE	CI	CIV	384	C124085	Geopolitical Entities, Names and Codes Terminology
+C16474	Croatia	CROATIA	HR	HRV	191	C124085	Geopolitical Entities, Names and Codes Terminology
+C16477	Cuba	CUBA	CU	CUB	192	C124085	Geopolitical Entities, Names and Codes Terminology
+C101225	Curacao	CURAÇAO	CW	CUW	531	C124085	Geopolitical Entities, Names and Codes Terminology
+C16480	Cyprus	CYPRUS	CY	CYP	196	C124085	Geopolitical Entities, Names and Codes Terminology
+C17668	Czechia	CZECHIA	CZ	CZE	203	C124085	Geopolitical Entities, Names and Codes Terminology
+C16496	Denmark	DENMARK	DK	DNK	208	C124085	Geopolitical Entities, Names and Codes Terminology
+C49345	Dhekelia	DHEKELIA	XD	XXD	907	C124085	Geopolitical Entities, Names and Codes Terminology
+C123746	Diego Garcia	DIEGO GARCIA	DG	DGA	908	C124085	Geopolitical Entities, Names and Codes Terminology
+C16506	Djibouti	DJIBOUTI	DJ	DJI	262	C124085	Geopolitical Entities, Names and Codes Terminology
+C16519	Dominica	DOMINICA	DM	DMA	212	C124085	Geopolitical Entities, Names and Codes Terminology
+C16520	Dominican Republic	DOMINICAN REPUBLIC	DO	DOM	214	C124085	Geopolitical Entities, Names and Codes Terminology
+C16528	Ecuador	ECUADOR	EC	ECU	218	C124085	Geopolitical Entities, Names and Codes Terminology
+C16530	Egypt	EGYPT	EG	EGY	818	C124085	Geopolitical Entities, Names and Codes Terminology
+C16532	El Salvador	EL SALVADOR	SV	SLV	222	C124085	Geopolitical Entities, Names and Codes Terminology
+C123747	GENC Entity 1	ENTITY 1		XAZ	909	C124085	Geopolitical Entities, Names and Codes Terminology
+C123748	GENC Entity 2	ENTITY 2		XCR	910	C124085	Geopolitical Entities, Names and Codes Terminology
+C123749	GENC Entity 3	ENTITY 3		XCY	911	C124085	Geopolitical Entities, Names and Codes Terminology
+C123750	GENC Entity 4	ENTITY 4		XKM	912	C124085	Geopolitical Entities, Names and Codes Terminology
+C123751	GENC Entity 5	ENTITY 5		XKN	913	C124085	Geopolitical Entities, Names and Codes Terminology
+C123752	GENC Entity 6	ENTITY 6	A3	AX3	914	C124085	Geopolitical Entities, Names and Codes Terminology
+C16557	Equatorial Guinea	EQUATORIAL GUINEA	GQ	GNQ	226	C124085	Geopolitical Entities, Names and Codes Terminology
+C16558	Eritrea	ERITREA	ER	ERI	232	C124085	Geopolitical Entities, Names and Codes Terminology
+C16562	Estonia	ESTONIA	EE	EST	233	C124085	Geopolitical Entities, Names and Codes Terminology
+C16563	Ethiopia	ETHIOPIA	ET	ETH	231	C124085	Geopolitical Entities, Names and Codes Terminology
+C123753	Europa Island	EUROPA ISLAND	XE	XEU	915	C124085	Geopolitical Entities, Names and Codes Terminology
+C17954	Falkland Islands (Malvinas)	FALKLAND ISLANDS (ISLAS MALVINAS)	FK	FLK	238	C124085	Geopolitical Entities, Names and Codes Terminology
+C16573	Faroe Islands	FAROE ISLANDS	FO	FRO	234	C124085	Geopolitical Entities, Names and Codes Terminology
+C16582	Fiji	FIJI	FJ	FJI	242	C124085	Geopolitical Entities, Names and Codes Terminology
+C16584	Finland	FINLAND	FI	FIN	246	C124085	Geopolitical Entities, Names and Codes Terminology
+C16592	France	FRANCE	FR	FRA	250	C124085	Geopolitical Entities, Names and Codes Terminology
+C16593	French Guiana	FRENCH GUIANA	GF	GUF	254	C124085	Geopolitical Entities, Names and Codes Terminology
+C16594	French Polynesia	FRENCH POLYNESIA	PF	PYF	258	C124085	Geopolitical Entities, Names and Codes Terminology
+C20105	French Southern and Antarctic Lands	FRENCH SOUTHERN AND ANTARCTIC LANDS	TF	ATF	260	C124085	Geopolitical Entities, Names and Codes Terminology
+C16596	Gabon	GABON	GA	GAB	266	C124085	Geopolitical Entities, Names and Codes Terminology
+C16598	The Gambia	GAMBIA, THE	GM	GMB	270	C124085	Geopolitical Entities, Names and Codes Terminology
+C123754	Gaza Strip	GAZA STRIP	XG	XGZ	916	C124085	Geopolitical Entities, Names and Codes Terminology
+C16634	Georgia (Republic)	GEORGIA	GE	GEO	268	C124085	Geopolitical Entities, Names and Codes Terminology
+C16636	Germany	GERMANY	DE	DEU	276	C124085	Geopolitical Entities, Names and Codes Terminology
+C26330	Ghana	GHANA	GH	GHA	288	C124085	Geopolitical Entities, Names and Codes Terminology
+C16638	Gibraltar	GIBRALTAR	GI	GIB	292	C124085	Geopolitical Entities, Names and Codes Terminology
+C123755	Glorioso Islands	GLORIOSO ISLANDS	QX	XGL	917	C124085	Geopolitical Entities, Names and Codes Terminology
+C16645	Greece	GREECE	GR	GRC	300	C124085	Geopolitical Entities, Names and Codes Terminology
+C16646	Greenland	GREENLAND	GL	GRL	304	C124085	Geopolitical Entities, Names and Codes Terminology
+C16647	Grenada	GRENADA	GD	GRD	308	C124085	Geopolitical Entities, Names and Codes Terminology
+C16651	Guadeloupe	GUADELOUPE	GP	GLP	312	C124085	Geopolitical Entities, Names and Codes Terminology
+C16652	Guam	GUAM	GU	GUM	316	C124085	Geopolitical Entities, Names and Codes Terminology
+C123756	Guantanamo Bay Naval Base	GUANTANAMO BAY NAVAL BASE	A2	AX2	918	C124085	Geopolitical Entities, Names and Codes Terminology
+C16654	Guatemala	GUATEMALA	GT	GTM	320	C124085	Geopolitical Entities, Names and Codes Terminology
+C64375	Guernsey	GUERNSEY	GG	GGY	831	C124085	Geopolitical Entities, Names and Codes Terminology
+C16655	Guinea	GUINEA	GN	GIN	324	C124085	Geopolitical Entities, Names and Codes Terminology
+C16656	Guinea-Bissau	GUINEA-BISSAU	GW	GNB	624	C124085	Geopolitical Entities, Names and Codes Terminology
+C16657	Guyana	GUYANA	GY	GUY	328	C124085	Geopolitical Entities, Names and Codes Terminology
+C16660	Haiti	HAITI	HT	HTI	332	C124085	Geopolitical Entities, Names and Codes Terminology
+C20106	Heard Island and McDonald Islands	HEARD ISLAND AND MCDONALD ISLANDS	HM	HMD	334	C124085	Geopolitical Entities, Names and Codes Terminology
+C16694	Honduras	HONDURAS	HN	HND	340	C124085	Geopolitical Entities, Names and Codes Terminology
+C16695	Hong Kong	HONG KONG	HK	HKG	344	C124085	Geopolitical Entities, Names and Codes Terminology
+C123759	Howland Island	HOWLAND ISLAND	XH	XHO	919	C124085	Geopolitical Entities, Names and Codes Terminology
+C16699	Hungary	HUNGARY	HU	HUN	348	C124085	Geopolitical Entities, Names and Codes Terminology
+C16704	Iceland	ICELAND	IS	ISL	352	C124085	Geopolitical Entities, Names and Codes Terminology
+C16727	India	INDIA	IN	IND	356	C124085	Geopolitical Entities, Names and Codes Terminology
+C16728	Indonesia	INDONESIA	ID	IDN	360	C124085	Geopolitical Entities, Names and Codes Terminology
+C16755	Iran, Islamic Republic of	IRAN	IR	IRN	364	C124085	Geopolitical Entities, Names and Codes Terminology
+C16756	Iraq	IRAQ	IQ	IRQ	368	C124085	Geopolitical Entities, Names and Codes Terminology
+C16757	Ireland	IRELAND	IE	IRL	372	C124085	Geopolitical Entities, Names and Codes Terminology
+C44480	Isle of Man	ISLE OF MAN	IM	IMN	833	C124085	Geopolitical Entities, Names and Codes Terminology
+C16760	Israel	ISRAEL	IL	ISR	376	C124085	Geopolitical Entities, Names and Codes Terminology
+C16761	Italy	ITALY	IT	ITA	380	C124085	Geopolitical Entities, Names and Codes Terminology
+C16763	Jamaica	JAMAICA	JM	JAM	388	C124085	Geopolitical Entities, Names and Codes Terminology
+C123760	Jan Mayen	JAN MAYEN	XJ	XJM	920	C124085	Geopolitical Entities, Names and Codes Terminology
+C16764	Japan	JAPAN	JP	JPN	392	C124085	Geopolitical Entities, Names and Codes Terminology
+C123761	Jarvis Island	JARVIS ISLAND	XQ	XJV	921	C124085	Geopolitical Entities, Names and Codes Terminology
+C64374	Jersey	JERSEY	JE	JEY	832	C124085	Geopolitical Entities, Names and Codes Terminology
+C123762	Johnston Atoll	JOHNSTON ATOLL	XU	XJA	922	C124085	Geopolitical Entities, Names and Codes Terminology
+C16765	Jordan	JORDAN	JO	JOR	400	C124085	Geopolitical Entities, Names and Codes Terminology
+C123763	Juan de Nova Island	JUAN DE NOVA ISLAND	QU	XJN	923	C124085	Geopolitical Entities, Names and Codes Terminology
+C20107	Kazakhstan	KAZAKHSTAN	KZ	KAZ	398	C124085	Geopolitical Entities, Names and Codes Terminology
+C16769	Kenya	KENYA	KE	KEN	404	C124085	Geopolitical Entities, Names and Codes Terminology
+C123764	Kingman Reef	KINGMAN REEF	XM	XKR	924	C124085	Geopolitical Entities, Names and Codes Terminology
+C16639	Kiribati	KIRIBATI	KI	KIR	296	C124085	Geopolitical Entities, Names and Codes Terminology
+C16773	Korea, Democratic People's Republic of	KOREA, NORTH	KP	PRK	408	C124085	Geopolitical Entities, Names and Codes Terminology
+C16774	Korea, Republic of	KOREA, SOUTH	KR	KOR	410	C124085	Geopolitical Entities, Names and Codes Terminology
+C123740	Kosovo	KOSOVO	XK	XKS	901	C124085	Geopolitical Entities, Names and Codes Terminology
+C16775	Kuwait	KUWAIT	KW	KWT	414	C124085	Geopolitical Entities, Names and Codes Terminology
+C16771	Kyrgyzstan	KYRGYZSTAN	KG	KGZ	417	C124085	Geopolitical Entities, Names and Codes Terminology
+C16780	Lao People's Democratic Republic	LAOS	LA	LAO	418	C124085	Geopolitical Entities, Names and Codes Terminology
+C16783	Latvia	LATVIA	LV	LVA	428	C124085	Geopolitical Entities, Names and Codes Terminology
+C16784	Lebanon	LEBANON	LB	LBN	422	C124085	Geopolitical Entities, Names and Codes Terminology
+C16787	Lesotho	LESOTHO	LS	LSO	426	C124085	Geopolitical Entities, Names and Codes Terminology
+C16791	Liberia	LIBERIA	LR	LBR	430	C124085	Geopolitical Entities, Names and Codes Terminology
+C16793	Libya	LIBYA	LY	LBY	434	C124085	Geopolitical Entities, Names and Codes Terminology
+C16794	Liechtenstein	LIECHTENSTEIN	LI	LIE	438	C124085	Geopolitical Entities, Names and Codes Terminology
+C16799	Lithuania	LITHUANIA	LT	LTU	440	C124085	Geopolitical Entities, Names and Codes Terminology
+C16803	Luxembourg	LUXEMBOURG	LU	LUX	442	C124085	Geopolitical Entities, Names and Codes Terminology
+C16807	Macau	MACAU	MO	MAC	446	C124085	Geopolitical Entities, Names and Codes Terminology
+C17654	North Macedonia	NORTH MACEDONIA	MK	MKD	807	C124085	Geopolitical Entities, Names and Codes Terminology
+C16808	Madagascar	MADAGASCAR	MG	MDG	450	C124085	Geopolitical Entities, Names and Codes Terminology
+C16813	Malawi	MALAWI	MW	MWI	454	C124085	Geopolitical Entities, Names and Codes Terminology
+C16814	Malaysia	MALAYSIA	MY	MYS	458	C124085	Geopolitical Entities, Names and Codes Terminology
+C16815	Maldives	MALDIVES	MV	MDV	462	C124085	Geopolitical Entities, Names and Codes Terminology
+C16816	Mali	MALI	ML	MLI	466	C124085	Geopolitical Entities, Names and Codes Terminology
+C16817	Malta	MALTA	MT	MLT	470	C124085	Geopolitical Entities, Names and Codes Terminology
+C16822	Marshall Islands	MARSHALL ISLANDS	MH	MHL	584	C124085	Geopolitical Entities, Names and Codes Terminology
+C16823	Martinique	MARTINIQUE	MQ	MTQ	474	C124085	Geopolitical Entities, Names and Codes Terminology
+C16826	Mauritania	MAURITANIA	MR	MRT	478	C124085	Geopolitical Entities, Names and Codes Terminology
+C16827	Mauritius	MAURITIUS	MU	MUS	480	C124085	Geopolitical Entities, Names and Codes Terminology
+C16828	Mayotte	MAYOTTE	YT	MYT	175	C124085	Geopolitical Entities, Names and Codes Terminology
+C16850	Mexico	MEXICO	MX	MEX	484	C124085	Geopolitical Entities, Names and Codes Terminology
+C17881	Micronesia, Federated States of	MICRONESIA, FEDERATED STATES OF	FM	FSM	583	C124085	Geopolitical Entities, Names and Codes Terminology
+C110919	Midway Islands, UM	MIDWAY ISLANDS	QM	XMW	925	C124085	Geopolitical Entities, Names and Codes Terminology
+C16871	Moldova, Republic of	MOLDOVA	MD	MDA	498	C124085	Geopolitical Entities, Names and Codes Terminology
+C16874	Monaco	MONACO	MC	MCO	492	C124085	Geopolitical Entities, Names and Codes Terminology
+C16875	Mongolia	MONGOLIA	MN	MNG	496	C124085	Geopolitical Entities, Names and Codes Terminology
+C64378	Montenegro	MONTENEGRO	ME	MNE	499	C124085	Geopolitical Entities, Names and Codes Terminology
+C16876	Montserrat	MONTSERRAT	MS	MSR	500	C124085	Geopolitical Entities, Names and Codes Terminology
+C16878	Morocco	MOROCCO	MA	MAR	504	C124085	Geopolitical Entities, Names and Codes Terminology
+C16882	Mozambique	MOZAMBIQUE	MZ	MOZ	508	C124085	Geopolitical Entities, Names and Codes Terminology
+C16891	Namibia	NAMIBIA	NA	NAM	516	C124085	Geopolitical Entities, Names and Codes Terminology
+C16896	Nauru	NAURU	NR	NRU	520	C124085	Geopolitical Entities, Names and Codes Terminology
+C123766	Navassa Island	NAVASSA ISLAND	XV	XNV	926	C124085	Geopolitical Entities, Names and Codes Terminology
+C16901	Nepal	NEPAL	NP	NPL	524	C124085	Geopolitical Entities, Names and Codes Terminology
+C16903	Netherlands	NETHERLANDS	NL	NLD	528	C124085	Geopolitical Entities, Names and Codes Terminology
+C16913	New Caledonia	NEW CALEDONIA	NC	NCL	540	C124085	Geopolitical Entities, Names and Codes Terminology
+C16914	New Zealand	NEW ZEALAND	NZ	NZL	554	C124085	Geopolitical Entities, Names and Codes Terminology
+C16915	Nicaragua	NICARAGUA	NI	NIC	558	C124085	Geopolitical Entities, Names and Codes Terminology
+C16916	Niger	NIGER	NE	NER	562	C124085	Geopolitical Entities, Names and Codes Terminology
+C16917	Nigeria	NIGERIA	NG	NGA	566	C124085	Geopolitical Entities, Names and Codes Terminology
+C16918	Niue	NIUE	NU	NIU	570	C124085	Geopolitical Entities, Names and Codes Terminology
+C16919	Norfolk Island	NORFOLK ISLAND	NF	NFK	574	C124085	Geopolitical Entities, Names and Codes Terminology
+C17882	Northern Mariana Islands	NORTHERN MARIANA ISLANDS	MP	MNP	580	C124085	Geopolitical Entities, Names and Codes Terminology
+C16920	Norway	NORWAY	NO	NOR	578	C124085	Geopolitical Entities, Names and Codes Terminology
+C16933	Oman	OMAN	OM	OMN	512	C124085	Geopolitical Entities, Names and Codes Terminology
+C16949	Pakistan	PAKISTAN	PK	PAK	586	C124085	Geopolitical Entities, Names and Codes Terminology
+C17733	Palau	PALAU	PW	PLW	585	C124085	Geopolitical Entities, Names and Codes Terminology
+C123767	Palmyra Atoll	PALMYRA ATOLL	XL	XPL	927	C124085	Geopolitical Entities, Names and Codes Terminology
+C16951	Panama	PANAMA	PA	PAN	591	C124085	Geopolitical Entities, Names and Codes Terminology
+C16952	Papua New Guinea	PAPUA NEW GUINEA	PG	PNG	598	C124085	Geopolitical Entities, Names and Codes Terminology
+C123768	Paracel Islands	PARACEL ISLANDS	XP	XPR	928	C124085	Geopolitical Entities, Names and Codes Terminology
+C16953	Paraguay	PARAGUAY	PY	PRY	600	C124085	Geopolitical Entities, Names and Codes Terminology
+C16972	Peru	PERU	PE	PER	604	C124085	Geopolitical Entities, Names and Codes Terminology
+C16978	Philippines	PHILIPPINES	PH	PHL	608	C124085	Geopolitical Entities, Names and Codes Terminology
+C16993	Pitcairn	PITCAIRN ISLANDS	PN	PCN	612	C124085	Geopolitical Entities, Names and Codes Terminology
+C17002	Poland	POLAND	PL	POL	616	C124085	Geopolitical Entities, Names and Codes Terminology
+C17006	Portugal	PORTUGAL	PT	PRT	620	C124085	Geopolitical Entities, Names and Codes Terminology
+C17043	Puerto Rico	PUERTO RICO	PR	PRI	630	C124085	Geopolitical Entities, Names and Codes Terminology
+C17045	Qatar	QATAR	QA	QAT	634	C124085	Geopolitical Entities, Names and Codes Terminology
+C17095	Reunion	REUNION	RE	REU	638	C124085	Geopolitical Entities, Names and Codes Terminology
+C17108	Romania	ROMANIA	RO	ROU	642	C124085	Geopolitical Entities, Names and Codes Terminology
+C17111	Russian Federation	RUSSIA	RU	RUS	643	C124085	Geopolitical Entities, Names and Codes Terminology
+C17112	Rwanda	RWANDA	RW	RWA	646	C124085	Geopolitical Entities, Names and Codes Terminology
+C83609	Saint Barthelemy	SAINT BARTHELEMY	BL	BLM	652	C124085	Geopolitical Entities, Names and Codes Terminology
+C17164	Saint Helena, Ascension and Tristan da Cunha	SAINT HELENA, ASCENSION, AND TRISTAN DA CUNHA	SH	SHN	654	C124085	Geopolitical Entities, Names and Codes Terminology
+C17885	Saint Kitts and Nevis	SAINT KITTS AND NEVIS	KN	KNA	659	C124085	Geopolitical Entities, Names and Codes Terminology
+C17113	Saint Lucia	SAINT LUCIA	LC	LCA	662	C124085	Geopolitical Entities, Names and Codes Terminology
+C83610	Saint Martin (French Part)	SAINT MARTIN	MF	MAF	663	C124085	Geopolitical Entities, Names and Codes Terminology
+C17165	Saint Pierre and Miquelon	SAINT PIERRE AND MIQUELON	PM	SPM	666	C124085	Geopolitical Entities, Names and Codes Terminology
+C17114	Saint Vincent and the Grenadines	SAINT VINCENT AND THE GRENADINES	VC	VCT	670	C124085	Geopolitical Entities, Names and Codes Terminology
+C17740	Samoa	SAMOA	WS	WSM	882	C124085	Geopolitical Entities, Names and Codes Terminology
+C17115	San Marino	SAN MARINO	SM	SMR	674	C124085	Geopolitical Entities, Names and Codes Terminology
+C17116	Sao Tome and Principe	SAO TOME AND PRINCIPE	ST	STP	678	C124085	Geopolitical Entities, Names and Codes Terminology
+C17117	Saudi Arabia	SAUDI ARABIA	SA	SAU	682	C124085	Geopolitical Entities, Names and Codes Terminology
+C17121	Senegal	SENEGAL	SN	SEN	686	C124085	Geopolitical Entities, Names and Codes Terminology
+C64377	Serbia	SERBIA	RS	SRB	688	C124085	Geopolitical Entities, Names and Codes Terminology
+C17129	Seychelles	SEYCHELLES	SC	SYC	690	C124085	Geopolitical Entities, Names and Codes Terminology
+C17130	Sierra Leone	SIERRA LEONE	SL	SLE	694	C124085	Geopolitical Entities, Names and Codes Terminology
+C17134	Singapore	SINGAPORE	SG	SGP	702	C124085	Geopolitical Entities, Names and Codes Terminology
+C101226	Sint Maarten (Dutch Part)	SINT MAARTEN	SX	SXM	534	C124085	Geopolitical Entities, Names and Codes Terminology
+C17669	Slovakia	SLOVAKIA	SK	SVK	703	C124085	Geopolitical Entities, Names and Codes Terminology
+C17138	Slovenia	SLOVENIA	SI	SVN	705	C124085	Geopolitical Entities, Names and Codes Terminology
+C17148	Solomon Islands	SOLOMON ISLANDS	SB	SLB	090	C124085	Geopolitical Entities, Names and Codes Terminology
+C17149	Somalia	SOMALIA	SO	SOM	706	C124085	Geopolitical Entities, Names and Codes Terminology
+C17151	South Africa	SOUTH AFRICA	ZA	ZAF	710	C124085	Geopolitical Entities, Names and Codes Terminology
+C20111	South Georgia and the South Sandwich Islands	SOUTH GEORGIA AND SOUTH SANDWICH ISLANDS	GS	SGS	239	C124085	Geopolitical Entities, Names and Codes Terminology
+C97351	South Sudan	SOUTH SUDAN	SS	SSD	728	C124085	Geopolitical Entities, Names and Codes Terminology
+C17152	Spain	SPAIN	ES	ESP	724	C124085	Geopolitical Entities, Names and Codes Terminology
+C123769	Spratly Islands	SPRATLY ISLANDS	XS	XSP	929	C124085	Geopolitical Entities, Names and Codes Terminology
+C17163	Sri Lanka	SRI LANKA	LK	LKA	144	C124085	Geopolitical Entities, Names and Codes Terminology
+C17170	Sudan	SUDAN	SD	SDN	729	C124085	Geopolitical Entities, Names and Codes Terminology
+C17175	Suriname	SURINAME	SR	SUR	740	C124085	Geopolitical Entities, Names and Codes Terminology
+C123770	Svalbard	SVALBARD	XR	XSV	930	C124085	Geopolitical Entities, Names and Codes Terminology
+C17179	Eswatini	ESWATINI	SZ	SWZ	748	C124085	Geopolitical Entities, Names and Codes Terminology
+C17180	Sweden	SWEDEN	SE	SWE	752	C124085	Geopolitical Entities, Names and Codes Terminology
+C17181	Switzerland	SWITZERLAND	CH	CHE	756	C124085	Geopolitical Entities, Names and Codes Terminology
+C17182	Syrian Arab Republic	SYRIA	SY	SYR	760	C124085	Geopolitical Entities, Names and Codes Terminology
+C17184	Taiwan	TAIWAN	TW	TWN	158	C124085	Geopolitical Entities, Names and Codes Terminology
+C17183	Tajikistan	TAJIKISTAN	TJ	TJK	762	C124085	Geopolitical Entities, Names and Codes Terminology
+C17185	Tanzania, United Republic of	TANZANIA	TZ	TZA	834	C124085	Geopolitical Entities, Names and Codes Terminology
+C17192	Thailand	THAILAND	TH	THA	764	C124085	Geopolitical Entities, Names and Codes Terminology
+C17200	Timor-Leste	TIMOR-LESTE	TL	TLS	626	C124085	Geopolitical Entities, Names and Codes Terminology
+C17202	Togo	TOGO	TG	TGO	768	C124085	Geopolitical Entities, Names and Codes Terminology
+C17704	Tokelau	TOKELAU	TK	TKL	772	C124085	Geopolitical Entities, Names and Codes Terminology
+C17205	Tonga	TONGA	TO	TON	776	C124085	Geopolitical Entities, Names and Codes Terminology
+C17217	Trinidad and Tobago	TRINIDAD AND TOBAGO	TT	TTO	780	C124085	Geopolitical Entities, Names and Codes Terminology
+C123771	Tromelin Island	TROMELIN ISLAND	XT	XTR	931	C124085	Geopolitical Entities, Names and Codes Terminology
+C17221	Tunisia	TUNISIA	TN	TUN	788	C124085	Geopolitical Entities, Names and Codes Terminology
+C17222	Turkey	TURKEY	TR	TUR	792	C124085	Geopolitical Entities, Names and Codes Terminology
+C17223	Turkmenistan	TURKMENISTAN	TM	TKM	795	C124085	Geopolitical Entities, Names and Codes Terminology
+C17224	Turks and Caicos Islands	TURKS AND CAICOS ISLANDS	TC	TCA	796	C124085	Geopolitical Entities, Names and Codes Terminology
+C17225	Tuvalu	TUVALU	TV	TUV	798	C124085	Geopolitical Entities, Names and Codes Terminology
+C17228	Uganda	UGANDA	UG	UGA	800	C124085	Geopolitical Entities, Names and Codes Terminology
+C17229	Ukraine	UKRAINE	UA	UKR	804	C124085	Geopolitical Entities, Names and Codes Terminology
+C17232	United Arab Emirates	UNITED ARAB EMIRATES	AE	ARE	784	C124085	Geopolitical Entities, Names and Codes Terminology
+C17233	United Kingdom	UNITED KINGDOM	GB	GBR	826	C124085	Geopolitical Entities, Names and Codes Terminology
+C17234	United States	UNITED STATES	US	USA	840	C124085	Geopolitical Entities, Names and Codes Terminology
+C123772	Unknown GENC	UNKNOWN	A1	AX1	932	C124085	Geopolitical Entities, Names and Codes Terminology
+C17244	Uruguay	URUGUAY	UY	URY	858	C124085	Geopolitical Entities, Names and Codes Terminology
+C17246	Uzbekistan	UZBEKISTAN	UZ	UZB	860	C124085	Geopolitical Entities, Names and Codes Terminology
+C17247	Vanuatu	VANUATU	VU	VUT	548	C124085	Geopolitical Entities, Names and Codes Terminology
+C17249	Holy See (Vatican City State)	VATICAN CITY	VA	VAT	336	C124085	Geopolitical Entities, Names and Codes Terminology
+C17250	Venezuela, Bolivarian Republic of	VENEZUELA	VE	VEN	862	C124085	Geopolitical Entities, Names and Codes Terminology
+C17252	Viet Nam	VIETNAM	VN	VNM	704	C124085	Geopolitical Entities, Names and Codes Terminology
+C17653	Virgin Islands, British	VIRGIN ISLANDS, BRITISH	VG	VGB	092	C124085	Geopolitical Entities, Names and Codes Terminology
+C17255	Virgin Islands, U.S.	VIRGIN ISLANDS, U.S.	VI	VIR	850	C124085	Geopolitical Entities, Names and Codes Terminology
+C123773	Wake Island	WAKE ISLAND	QW	XWK	933	C124085	Geopolitical Entities, Names and Codes Terminology
+C17259	Wallis and Futuna	WALLIS AND FUTUNA	WF	WLF	876	C124085	Geopolitical Entities, Names and Codes Terminology
+C123774	West Bank	WEST BANK	XW	XWB	934	C124085	Geopolitical Entities, Names and Codes Terminology
+C20113	Western Sahara	WESTERN SAHARA	EH	ESH	732	C124085	Geopolitical Entities, Names and Codes Terminology
+C17264	Yemen	YEMEN	YE	YEM	887	C124085	Geopolitical Entities, Names and Codes Terminology
+C17267	Zambia	ZAMBIA	ZM	ZMB	894	C124085	Geopolitical Entities, Names and Codes Terminology
+C17268	Zimbabwe	ZIMBABWE	ZW	ZWE	716	C124085	Geopolitical Entities, Names and Codes Terminology
