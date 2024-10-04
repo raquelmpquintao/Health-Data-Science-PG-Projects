@@ -46,7 +46,7 @@ The following technologies and tools were used across the various projects:
 
 ### 4. Reações a Comida: Programa em Python 
 **Discipline**: Programming Fundamentals  
-**Technologies**: Python (Pandas, NumPy, Matplotlib, PySimpleGUI, Dash)  
+**Technologies**: Python (Pandas, NumPy, Matplotlib, PySimpleGUI)  
 **Description**:  
 (Portuguese): Desenvolvimento de um programa em Python para analisar reações alérgicas a ingredientes em produtos alimentares de uma empresa de doces. O programa permite identificar ingredientes problemáticos, determinar o número de pessoas alérgicas a produtos específicos e gerar relatórios de perigosidade de acordo com os ingredientes das receitas. Também inclui visualizações em gráficos de barras e uma interface gráfica para as funcionalidades.  
 (English): Development of a Python program to analyze allergic reactions to ingredients in confectionery products. The program identifies problematic ingredients, determines the number of allergic individuals for specific products, and generates danger reports based on the ingredients in the recipes. It also includes bar chart visualizations and a graphical interface for its functionalities.
